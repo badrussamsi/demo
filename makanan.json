@@ -1,17 +1,4 @@
 {
-    "makanan":
-        [
-            {        
-    	        "nama_barang":"Indomie Goreng",
-		        "harga":"3000"
-            },
-            {        
-                "nama_barang":"Indomie Ayam Bawang",
-		        "harga":"3000"
-            },
-            {        
-                "nama_barang":"Indomie Ayam Geprek",
-    	        "harga":"3000"
-            }
-        ]    
+	"nama_barang":"Indomie Goreng",
+	"harga":"3000"
 }
